@@ -1,1 +1,3 @@
-../../variables.tf
+variable "length" {
+  type = number
+}

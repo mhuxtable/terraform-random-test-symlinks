@@ -1,3 +1,1 @@
-variable "length" {
-  type = number
-}
+modules/child_module/variables.tf
